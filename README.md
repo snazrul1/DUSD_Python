@@ -11,3 +11,7 @@ Before the first day of class, please have the following installed:
   - Git clone this repository!
 
 Try your best to install the above and we can help during the first day with installation.
+
+##Announcements
+  - Dont forget your laptops
+  - Show up on time

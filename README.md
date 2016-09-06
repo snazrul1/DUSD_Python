@@ -1,5 +1,5 @@
 # Darul Uloom San Diego - Python Course
-## Instructor: Syed Saday Nazrul
+## Instructor: Syed Sadat Nazrul
 
 ##Introduction
 This github repo will contain all the Python course materials for [Darul Uloom San Diego](http://www.darululoomsd.org/) Python tutoring for kids and adults. The course will cover the basics of python as well as a brief introduction to libraries used for data analysis, gui development and web design.

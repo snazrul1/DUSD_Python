@@ -1,3 +1,5 @@
+##Date: 9/16/16
+
 ##Agenda
 - Homework help
 

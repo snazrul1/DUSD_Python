@@ -8,3 +8,5 @@
   - Unit 6: Student Becomes Teacher
   - Unit 7: Lists and Functions
   - Unit 8: Loops
+
+- Any unit not completed in class will be homework for next week

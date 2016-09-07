@@ -5,7 +5,7 @@
 This github repo will contain all the Python course materials for [Darul Uloom San Diego](http://www.darululoomsd.org/) Python tutoring for kids and adults. No prior programming experience is required. The course will cover the basics of python as well as a brief introduction to libraries used for data analysis, GUI development and web design. We will also cover the basic use of GitHub (which is commonly used in team based Software Development). 
 
 ##Installation
-Before the first day of class, please have the following installed:
+Before the 4th day of class, please have the following installed:
   - [Anaconda](https://www.continuum.io/downloads)
   - [Git](https://git-scm.com/)
   - Git clone this repository!

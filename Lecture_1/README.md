@@ -7,6 +7,9 @@
   - Experience level
 
 - Technical Issues (installation)
+  - [Anaconda](https://www.continuum.io/downloads)
+  - [Git](https://git-scm.com/)
+  - Git clone this repository!
 
 - [Code Academy](https://www.codecademy.com/learn/python)
   - Unit 1: Python Sytnax

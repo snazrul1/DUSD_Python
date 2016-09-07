@@ -8,3 +8,5 @@
   - Unit 10: Advanced Topics in Python
   - Unit 11: Introduction to Classes
   - Unit 12: File I/O
+
+- Any unit not completed in class will be homework for next week

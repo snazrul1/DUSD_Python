@@ -14,4 +14,4 @@ Try your best to install the above and we can help during the first day with ins
 
 ##Announcements
   - Dont forget your laptops
-  - Show up on time (Friday 7pm)
+  - Show up on time (Friday 6:30 pm)
